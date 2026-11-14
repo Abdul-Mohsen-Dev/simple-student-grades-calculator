@@ -13,9 +13,11 @@ while True:
     if text.lower() == "done":
         break
     try:
-        grades.append(float(text))
+        grade = float(text)
     except ValueError:
         print("Please type a number, or 'done' to finish.")
+        continue
+    grades.append(grade)
 
 if not grades:
     print("No grades were entered.")
