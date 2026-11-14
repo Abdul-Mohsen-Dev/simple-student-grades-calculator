@@ -22,7 +22,7 @@ On Windows, use `python grades.py`.
 2. Repeat for every student.
 3. Type `done` when you finish.
 
-Grades must be numbers between 0 and 100. Anything else is rejected and the program asks again.
+Grades must be numbers between 0 and 100. Anything else like -43 or 143 is rejected and the program asks again .
 
 ## Example
 
