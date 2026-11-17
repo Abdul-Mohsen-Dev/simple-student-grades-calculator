@@ -1,4 +1,4 @@
-# Grades Calculator
+# Grades Calculator App
 
 A very simple Python program for teachers. You type each student's grade, and it shows the average, the highest and lowest grades, and how many students passed or failed.
 
